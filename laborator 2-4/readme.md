@@ -56,10 +56,10 @@
 ## 🖼️ Screenshot-uri
 
 ### Codédex — Python Course
-![Codédex Python](https://github.com/andypowered/tehnici-de-programare/laborator 2-4/screenshots/1.jpg)
+![Codédex Python](https://github.com/andypowered/tehnici-de-programare/laborator%202-4/screenshots/1.jpg)
 
 ### pwn.college — Dojos
-![pwn.college Dojos](https://github.com/andypowered/tehnici-de-programare/laborator 2-4/screenshots/2.jpg)
+![pwn.college Dojos](https://github.com/andypowered/tehnici-de-programare/laborator%202-4/screenshots/2.jpg)
 
 > *Screenshot 1.2 — Interfața platformelor Codédex și pwn.college*
 
